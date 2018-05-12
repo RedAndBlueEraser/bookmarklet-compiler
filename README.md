@@ -1,6 +1,8 @@
 # Bookmarklet Compiler
 A HTML document/application to create bookmarklets.
 
+You can try it out [here](http://htmlpreview.github.io/?https://github.com/RedAndBlueEraser/bookmarklet-compiler/blob/master/index.min.html).
+
 ## Synopsis
 This HTML application transforms JavaScript code to bookmarklets.
 
