@@ -42,8 +42,8 @@
             if (code) {
                 if (collapseWhitespaceCheckbox.checked) {
                     code = code.replace(/\s+/g, " ");
-                    code = code.replace(/\s(\W)/g, "$1");
-                    code = code.replace(/(\W)\s/g, "$1");
+                    //code = code.replace(/\s([^A-Za-z0-9_$])/g, "$1");
+                    //code = code.replace(/([^A-Za-z0-9_$])\s/g, "$1");
                 }
                 if (wrapInAnonymousFunctionCheckbox.checked)
                     code = "(function(){" + code + "})()";
