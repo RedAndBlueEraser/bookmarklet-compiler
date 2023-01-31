@@ -26,4 +26,4 @@ Get your bookmarklet either by copying the transformed code from the second text
 - `Collapse whitespace` collapses all whitespace in the input including whitespace inside strings and regular expressions. If you want a more comprehensive minifier or obfuscater, process your input through a proper minifier or obfuscater first, such as UglifyJS, before processing it here.
 
 ## Author
-Harry Wong (RedAndBlueEraser)
+RedAndBlueEraser
